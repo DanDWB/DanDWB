@@ -15,7 +15,7 @@ Skills: HTML / CSS / JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanDWB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dan-devtool-talent-specialist//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanDWB)](https://github.com/anuraghazra/github-readme-stats) <p><img align="right" alt"gif"src"https://github.com/DanDWB/DanDWB/blob/main/200.webp" width="500" height="320" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanDWB)](https://github.com/anuraghazra/github-readme-stats) ![giphy (1)](https://user-images.githubusercontent.com/108521107/183224913-d301aeac-a923-4e86-969e-04f9c95c375b.gif)
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanDWB&show_icons=true&theme=tokyonight)
 
