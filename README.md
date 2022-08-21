@@ -12,12 +12,12 @@ Skills: HTML / CSS / JS
 - 📫 How to reach me: LinkedIn/Email - Links Below 
 - ⚡ Fun fact: I enjoy constant learning - ATM this is web dev and Martial Arts
  
+ ![Snake animation](https://github.com/DanDWB/DanDWB/blob/output/github-contribution-grid-snake.svg) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanDWB)](https://github.com/anuraghazra/github-readme-stats) ![giphy (1)](https://user-images.githubusercontent.com/108521107/183224913-d301aeac-a923-4e86-969e-04f9c95c375b.gif)
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanDWB&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/DanDWB/DanDWB/blob/output/github-contribution-grid-snake.svg) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanDWB)](https://github.com/anuraghazra/github-readme-stats) ![giphy (1)](https://user-images.githubusercontent.com/108521107/183224913-d301aeac-a923-4e86-969e-04f9c95c375b.gif)
 
 ![GitHub metrics](https://metrics.lecoq.io/DanDWB)  
 
