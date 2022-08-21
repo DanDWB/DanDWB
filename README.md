@@ -14,7 +14,6 @@ Skills: HTML / CSS / JS
  
  ![Snake animation](https://github.com/DanDWB/DanDWB/blob/output/github-contribution-grid-snake.svg) 
 
-![GitHub metrics](https://metrics.lecoq.io/DanDWB)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanDWB)
 
