@@ -25,4 +25,17 @@ Skills: HTML / CSS / JS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanDWB)  
 
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/dan-devtool-talent-specialist/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: daniel@rekallconsulting.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/DanDWB)
+ 
+</div>
+
 ![Profile views](https://gpvc.arturio.dev/DanDWB)  
+
+
