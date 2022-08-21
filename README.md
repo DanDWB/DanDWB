@@ -19,9 +19,7 @@ Skills: HTML / CSS / JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanDWB)](https://github.com/anuraghazra/github-readme-stats) ![giphy (1)](https://user-images.githubusercontent.com/108521107/183224913-d301aeac-a923-4e86-969e-04f9c95c375b.gif)
 
-![GitHub metrics](https://metrics.lecoq.io/DanDWB)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanDWB)  
+  
 
 ## Contact 
 <div> 
