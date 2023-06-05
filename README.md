@@ -33,6 +33,6 @@ Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
  
 </div>
 
-![Profile views](https://gpvc.arturio.dev/DanDWB)  
+![](https://komarev.com/ghpvc/?username=DanDWB)
 
 
