@@ -6,9 +6,12 @@ I'm Daniel Bailey, a tech enthusiast currently enrolled in CS50 to broaden my de
 
 Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
 
-- ✅ Step 1: Make a website https://dandwb.github.io/New-Draft-site/ 
-- ✅ Step 2: Get AZ-900 certified
-- 🟠 Step 3: Complete CS50
+- ✅ Step 1: Make a website - https://dandwb.github.io/New-Draft-site/ 
+- ✅ Step 2: Become a technical blogger - https://medium.com/@danbaileydwb
+- ✅ Step 3: Read my first (of many) book - The Challenger Sale
+- ✅ Step 3: Get AZ-900 certified
+- 🟠 Step 4: Complete CS50
+- 🌎 Step 5: Take over the world
 - 📫 How to reach me: LinkedIn/Email - Links Below 
 - ⚡ Me: I LOVEEE fueling my curiosity
  
