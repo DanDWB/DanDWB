@@ -2,15 +2,15 @@
 #### DevTool Enthusiast
 ![DevTool Enthusiast](Untitled.jpg)
 
-I'm Daniel Bailey, a tech enthusiast currently enrolled in a full-stack bootcamp to broaden my depth of knowledge and truly relate to the engineers I talk to on a daily basis. I'm currently working with HTML, CSS, and JS to develop my first official website for my fathers book (Setting a real world project is a game changer for learning how to apply the things you pick-up in these online courses!).
+I'm Daniel Bailey, a tech enthusiast currently enrolled in CS50 to broaden my depth of knowledge and truly relate to the engineers I talk to on a daily basis. I'm currently working with C to fight the challenges of cs50! Previously I have dabbled in HTML, CSS, and fractional amounts of JS (Find the website I made below 😊)
 
-Skills: HTML / CSS / JS
+Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
 
-- 🔭 I’m currently working on https://dandwb.github.io/New-Draft-site/ 
-- 🌱 I’m currently learning JS and further down the line jQuery / React.js / Python / SQL / Django 
-- 💬 Ask me about Technical Recruitment 
+- ✅ Step 1: Make a website https://dandwb.github.io/New-Draft-site/ 
+- ✅ Step 2: Get AZ-900 certified
+- 🟠 Step 3: Complete CS50
 - 📫 How to reach me: LinkedIn/Email - Links Below 
-- ⚡ Fun fact: I enjoy constant learning - ATM this is web dev and Martial Arts
+- ⚡ Me: I LOVEEE fueling my curiosity
  
  ![Snake animation](https://github.com/DanDWB/DanDWB/blob/output/github-contribution-grid-snake.svg) 
 
