@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniel
 #### DevTool + OSS Enthusiast
-![DevTool Enthusiast](Untitled.jpg)
+![DevTool Enthusiast](gitbanner(1).jpg)
 
 I'm Daniel Bailey, a tech enthusiast currently enrolled in CS50 to broaden my depth of knowledge and truly relate to the engineers I talk to on a daily basis. I'm currently working with C to fight the challenges of cs50! Previously I have dabbled in HTML, CSS, and fractional amounts of JS (Find the website I made below 😊)
 
