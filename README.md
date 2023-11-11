@@ -2,7 +2,7 @@
 #### DevTool + OSS Enthusiast
 ![DevTool Enthusiast](gitba.jpg)
 
-I'm Daniel Bailey, a tech enthusiast currently enrolled in CS50 to broaden my depth of knowledge and truly relate to the engineers I talk to on a daily basis. I'm currently working with C to fight the challenges of cs50! Previously I have dabbled in HTML, CSS, and fractional amounts of JS (Find the website I made below 😊)
+I'm Daniel Bailey, a tech enthusiast currently enrolled in CS50 to broaden my depth of knowledge and truly relate to the engineers I talk to on a daily basis. I'm currently working with C to fight the challenges of cs50! Previously I have dabbled in HTML, CSS, and fractional amounts of JS (Find the website I made below 😊) To contact me, my LinkedIn profile is best :) : https://www.linkedin.com/in/dan-bailey-grafana?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
 
