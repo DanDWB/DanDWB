@@ -2,7 +2,7 @@
 #### DevTool + OSS Enthusiast
 ![DevTool Enthusiast](gitba.jpg)
 
-I'm Daniel Bailey, a tech enthusiast currently enrolled in CS50 to broaden my depth of knowledge and truly relate to the engineers I talk to on a daily basis. I'm currently working with C to fight the challenges of cs50! Previously I have dabbled in HTML, CSS, and fractional amounts of JS (Find the website I made below 😊) To contact me, my LinkedIn profile is best :)
+I'm Daniel Bailey, a tech enthusiast currently working at the amazing company that is GRAFANA!!!. I'm always trying to improve my technical knowledge, and would appreciate any suggestions! Previously I have dabbled in HTML, CSS, and fractional amounts of JS and C (Find the website I made below 😊) To contact me, my LinkedIn profile is best :)
 
 Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
 
@@ -10,12 +10,20 @@ Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
 - ✅ Step 2: Become a technical blogger - https://medium.com/@danbaileydwb
 - ✅ Step 3: Read my first (of many) book - The Challenger Sale
 - ✅ Step 3: Get AZ-900 certified
-- 🟠 Step 4: Complete CS50
+- ✅ Step 4: Install and increase my knowledge with Linux on a project laptop
+- 🟠 Step 4: Complete CS50/Increase tech knowledge/relavant courses
 - 🌎 Step 5: Take over the world
 - 📫 How to reach me: LinkedIn/Email - Links Below 
-- ⚡ Me: I LOVEEE fueling my curiosity
+- ⚡ Me: I LOVEEE fueling my curiosity and speaking with like-minded people
  
- ![Snake animation](https://github.com/DanDWB/DanDWB/blob/output/github-contribution-grid-snake.svg) 
+# generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ DanDWB }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanDWB)
