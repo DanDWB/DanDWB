@@ -16,7 +16,7 @@ Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
 - 📫 How to reach me: LinkedIn/Email - Links Below 
 - ⚡ Me: I LOVEEE fueling my curiosity and speaking with like-minded people
  
-
+https://github.com/DanDWB/DanDWB/blob/output/github-contribution-grid-snake.gif
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanDWB)
 
