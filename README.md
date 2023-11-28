@@ -16,14 +16,6 @@ Skills: HTML / CSS / C (soon) / Technical Recruitment / Sales
 - 📫 How to reach me: LinkedIn/Email - Links Below 
 - ⚡ Me: I LOVEEE fueling my curiosity and speaking with like-minded people
  
-# generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ DanDWB }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanDWB)
